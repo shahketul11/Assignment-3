@@ -20,4 +20,4 @@ class TestApp:
         assert res == numbers[0]
 
     def test_area_of_square(self):
-        assert calculate_area(72) == 729  # 27 squared is 729
+        assert calculate_area(27) == 729  # 27 squared is 729
